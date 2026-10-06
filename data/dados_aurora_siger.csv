@@ -1,0 +1,505 @@
+ciclo,modulo,tipo,codigo_sensor,distancia_m,qualidade_sinal_pct,status,carga_trafego,tensao_v,corrente_a,latencia_observada_ms,latencia_prevista_ms
+1,Habitat Alpha,habitacao,0x1A2F,120,75.7,manutencao,58.5,12.0,1.68,55.99,31.96
+2,Habitat Alpha,habitacao,0x1A2F,120,80.8,manutencao,44.7,12.0,1.24,75.41,36.12
+3,Habitat Alpha,habitacao,0x1A2F,120,95.9,ativo,53.4,12.0,1.35,45.27,32.64
+4,Habitat Alpha,habitacao,0x1A2F,120,82.7,manutencao,41.7,12.0,1.22,76.69,34.25
+5,Habitat Alpha,habitacao,0x1A2F,120,80.5,manutencao,54.6,12.0,1.54,73.47,35.42
+6,Habitat Alpha,habitacao,0x1A2F,120,80.2,manutencao,35.8,12.0,1.13,71.54,36.82
+7,Habitat Alpha,habitacao,0x1A2F,120,82.1,ativo,30.2,12.0,1.28,52.33,35.65
+8,Habitat Alpha,habitacao,0x1A2F,120,84.6,manutencao,47.1,12.0,1.43,73.48,35.01
+9,Habitat Alpha,habitacao,0x1A2F,120,88.5,ativo,50.2,12.0,1.53,32.76,33.92
+10,Habitat Alpha,habitacao,0x1A2F,120,83.5,ativo,40.0,12.0,1.53,39.04,36.50
+11,Habitat Alpha,habitacao,0x1A2F,120,85.7,ativo,47.9,12.0,1.49,53.53,36.15
+12,Habitat Alpha,habitacao,0x1A2F,120,84.8,ativo,60.4,12.0,1.53,38.83,32.29
+13,Habitat Alpha,habitacao,0x1A2F,120,91.5,ativo,47.6,12.0,1.50,39.62,34.88
+14,Habitat Alpha,habitacao,0x1A2F,120,85.8,ativo,53.2,12.0,1.37,44.91,33.80
+15,Habitat Alpha,habitacao,0x1A2F,120,86.4,manutencao,36.6,12.0,1.26,66.64,35.45
+16,Habitat Alpha,habitacao,0x1A2F,120,87.3,ativo,37.4,12.0,1.26,28.74,31.67
+17,Habitat Alpha,habitacao,0x1A2F,120,81.0,ativo,52.2,12.0,1.32,47.54,37.16
+18,Habitat Alpha,habitacao,0x1A2F,120,88.2,manutencao,28.2,12.0,1.13,50.89,33.88
+19,Habitat Alpha,habitacao,0x1A2F,120,75.9,ativo,52.8,12.0,1.50,48.88,31.67
+20,Habitat Alpha,habitacao,0x1A2F,120,79.3,manutencao,49.2,12.0,1.42,83.78,34.08
+21,Habitat Alpha,habitacao,0x1A2F,120,89.3,ativo,49.0,12.0,1.62,52.64,35.27
+22,Habitat Alpha,habitacao,0x1A2F,120,79.7,ativo,33.5,12.0,1.08,44.31,31.81
+23,Habitat Alpha,habitacao,0x1A2F,120,86.4,ativo,18.5,12.0,0.88,43.34,36.24
+24,Habitat Alpha,habitacao,0x1A2F,120,100.0,ativo,52.5,12.0,1.31,20.04,35.10
+25,Habitat Alpha,habitacao,0x1A2F,120,85.1,ativo,34.0,12.0,1.21,54.17,34.87
+26,Habitat Alpha,habitacao,0x1A2F,120,80.8,ativo,14.9,12.0,0.92,42.75,38.10
+27,Habitat Alpha,habitacao,0x1A2F,120,89.9,manutencao,36.0,12.0,1.08,51.34,33.11
+28,Habitat Alpha,habitacao,0x1A2F,120,82.3,ativo,60.1,12.0,1.42,60.18,35.33
+29,Habitat Alpha,habitacao,0x1A2F,120,87.7,ativo,33.2,12.0,1.29,38.70,32.11
+30,Habitat Alpha,habitacao,0x1A2F,120,77.2,alerta,73.4,12.0,1.75,91.68,35.13
+31,Habitat Alpha,habitacao,0x1A2F,120,89.5,ativo,37.6,12.0,1.44,46.46,37.63
+32,Habitat Alpha,habitacao,0x1A2F,120,79.4,ativo,20.4,12.0,1.31,60.77,34.20
+33,Habitat Alpha,habitacao,0x1A2F,120,98.2,ativo,25.1,12.0,0.98,40.38,33.77
+34,Habitat Alpha,habitacao,0x1A2F,120,86.9,ativo,51.1,12.0,1.66,47.87,35.85
+35,Habitat Alpha,habitacao,0x1A2F,120,87.7,ativo,29.8,12.0,0.99,34.18,33.89
+36,Habitat Alpha,habitacao,0x1A2F,120,73.7,manutencao,45.6,12.0,1.30,69.13,36.57
+37,Habitat Alpha,habitacao,0x1A2F,120,97.4,ativo,42.2,12.0,1.23,36.66,35.04
+38,Habitat Alpha,habitacao,0x1A2F,120,80.4,ativo,46.6,12.0,1.42,72.80,38.31
+39,Habitat Alpha,habitacao,0x1A2F,120,74.0,alerta,18.7,12.0,0.95,86.09,36.97
+40,Habitat Alpha,habitacao,0x1A2F,120,78.4,manutencao,6.3,12.0,0.86,51.35,33.50
+41,Habitat Alpha,habitacao,0x1A2F,120,95.9,ativo,43.3,12.0,1.08,26.63,38.82
+42,Habitat Alpha,habitacao,0x1A2F,120,80.3,ativo,78.1,12.0,2.22,46.27,33.82
+43,Habitat Alpha,habitacao,0x1A2F,120,100.0,ativo,27.2,12.0,1.11,40.91,35.43
+44,Habitat Alpha,habitacao,0x1A2F,120,87.1,ativo,20.3,12.0,1.02,38.06,35.02
+45,Habitat Alpha,habitacao,0x1A2F,120,91.3,ativo,63.2,12.0,1.62,50.03,34.67
+46,Habitat Alpha,habitacao,0x1A2F,120,77.9,manutencao,50.7,12.0,1.43,89.39,37.71
+47,Habitat Alpha,habitacao,0x1A2F,120,82.7,ativo,25.0,12.0,1.29,46.54,35.52
+48,Habitat Alpha,habitacao,0x1A2F,120,94.5,ativo,53.2,12.0,1.31,38.54,35.09
+49,Habitat Alpha,habitacao,0x1A2F,120,86.0,ativo,43.1,12.0,1.31,47.30,37.50
+50,Habitat Alpha,habitacao,0x1A2F,120,86.3,ativo,48.2,12.0,1.45,43.47,31.05
+51,Habitat Alpha,habitacao,0x1A2F,120,100.0,ativo,17.4,12.0,1.15,28.90,34.44
+52,Habitat Alpha,habitacao,0x1A2F,120,85.7,ativo,68.4,12.0,1.75,67.02,36.91
+53,Habitat Alpha,habitacao,0x1A2F,120,100.0,ativo,52.9,12.0,1.59,36.64,34.69
+54,Habitat Alpha,habitacao,0x1A2F,120,94.9,ativo,23.8,12.0,1.22,34.64,36.90
+55,Habitat Alpha,habitacao,0x1A2F,120,100.0,ativo,58.2,12.0,1.30,39.82,32.22
+56,Habitat Alpha,habitacao,0x1A2F,120,93.6,manutencao,56.5,12.0,1.41,52.91,34.63
+57,Habitat Alpha,habitacao,0x1A2F,120,83.3,ativo,50.6,12.0,1.61,54.66,29.98
+58,Habitat Alpha,habitacao,0x1A2F,120,88.5,ativo,52.5,12.0,1.71,27.79,33.38
+59,Habitat Alpha,habitacao,0x1A2F,120,76.9,ativo,71.6,12.0,1.76,65.18,33.42
+60,Habitat Alpha,habitacao,0x1A2F,120,95.5,ativo,49.2,12.0,1.46,43.76,32.83
+61,Habitat Alpha,habitacao,0x1A2F,120,86.9,ativo,51.9,12.0,1.61,37.69,34.31
+62,Habitat Alpha,habitacao,0x1A2F,120,77.8,manutencao,30.2,12.0,1.21,73.91,34.58
+63,Habitat Alpha,habitacao,0x1A2F,120,82.0,alerta,60.2,12.0,1.64,107.95,34.15
+64,Habitat Alpha,habitacao,0x1A2F,120,99.2,ativo,36.8,12.0,1.28,48.21,31.36
+65,Habitat Alpha,habitacao,0x1A2F,120,76.8,ativo,30.7,12.0,1.25,53.75,35.11
+66,Habitat Alpha,habitacao,0x1A2F,120,71.8,ativo,46.0,12.0,1.31,59.48,35.96
+67,Habitat Alpha,habitacao,0x1A2F,120,71.4,alerta,47.5,12.0,1.51,92.97,35.62
+68,Habitat Alpha,habitacao,0x1A2F,120,86.7,ativo,48.5,12.0,1.54,43.09,35.60
+69,Habitat Alpha,habitacao,0x1A2F,120,87.2,ativo,59.9,12.0,1.26,37.05,31.60
+70,Habitat Alpha,habitacao,0x1A2F,120,78.3,manutencao,58.5,12.0,1.50,73.72,36.74
+71,Habitat Alpha,habitacao,0x1A2F,120,82.5,manutencao,69.4,12.0,1.69,64.09,33.37
+72,Habitat Alpha,habitacao,0x1A2F,120,76.8,manutencao,38.6,12.0,1.41,84.18,31.80
+73,Habitat Alpha,habitacao,0x1A2F,120,80.7,ativo,53.5,12.0,1.46,34.92,36.42
+74,Habitat Alpha,habitacao,0x1A2F,120,84.3,ativo,25.7,12.0,1.03,47.18,34.18
+75,Habitat Alpha,habitacao,0x1A2F,120,90.5,ativo,68.8,12.0,1.62,35.25,36.69
+76,Habitat Alpha,habitacao,0x1A2F,120,95.8,ativo,51.9,12.0,1.44,44.84,38.46
+77,Habitat Alpha,habitacao,0x1A2F,120,88.5,ativo,47.9,12.0,1.57,37.78,35.23
+78,Habitat Alpha,habitacao,0x1A2F,120,90.2,ativo,30.0,12.0,0.94,21.92,32.33
+79,Habitat Alpha,habitacao,0x1A2F,120,85.9,ativo,79.9,12.0,1.98,45.06,35.26
+80,Habitat Alpha,habitacao,0x1A2F,120,81.0,manutencao,48.3,12.0,1.50,65.07,36.69
+81,Habitat Alpha,habitacao,0x1A2F,120,88.0,ativo,91.8,12.0,1.99,67.82,34.74
+82,Habitat Alpha,habitacao,0x1A2F,120,75.6,alerta,41.9,12.0,1.21,91.00,32.86
+83,Habitat Alpha,habitacao,0x1A2F,120,92.3,ativo,57.0,12.0,1.68,48.24,33.99
+84,Habitat Alpha,habitacao,0x1A2F,120,85.8,ativo,61.8,12.0,1.31,46.96,30.58
+1,MedBase,medico,0x1B3C,185,89.5,manutencao,61.1,12.0,1.46,57.54,34.35
+2,MedBase,medico,0x1B3C,185,89.9,alerta,52.8,12.0,1.38,90.26,37.16
+3,MedBase,medico,0x1B3C,185,85.7,ativo,43.5,12.0,1.47,54.83,41.62
+4,MedBase,medico,0x1B3C,185,91.3,ativo,74.3,12.0,1.59,46.73,42.95
+5,MedBase,medico,0x1B3C,185,94.8,ativo,37.0,12.0,1.49,45.90,40.80
+6,MedBase,medico,0x1B3C,185,82.5,ativo,28.1,12.0,1.09,54.55,37.15
+7,MedBase,medico,0x1B3C,185,81.2,ativo,65.7,12.0,1.27,52.10,36.91
+8,MedBase,medico,0x1B3C,185,81.7,manutencao,41.8,12.0,1.29,70.42,40.69
+9,MedBase,medico,0x1B3C,185,89.9,ativo,56.9,12.0,1.58,56.94,40.87
+10,MedBase,medico,0x1B3C,185,79.4,manutencao,39.5,12.0,1.19,63.50,37.79
+11,MedBase,medico,0x1B3C,185,81.4,ativo,29.0,12.0,1.16,54.36,40.38
+12,MedBase,medico,0x1B3C,185,91.3,ativo,58.3,12.0,1.51,45.49,41.38
+13,MedBase,medico,0x1B3C,185,74.9,ativo,43.8,12.0,1.39,50.39,40.66
+14,MedBase,medico,0x1B3C,185,82.4,alerta,67.5,12.0,1.61,97.08,35.46
+15,MedBase,medico,0x1B3C,185,70.9,alerta,25.7,12.0,1.23,110.14,37.93
+16,MedBase,medico,0x1B3C,185,86.6,ativo,74.0,12.0,1.55,59.81,43.92
+17,MedBase,medico,0x1B3C,185,77.0,manutencao,15.3,12.0,0.80,65.39,39.24
+18,MedBase,medico,0x1B3C,185,74.7,alerta,13.1,12.0,1.04,81.96,42.83
+19,MedBase,medico,0x1B3C,185,80.5,ativo,54.7,12.0,1.61,61.33,36.91
+20,MedBase,medico,0x1B3C,185,77.8,ativo,49.2,12.0,1.21,61.84,38.67
+21,MedBase,medico,0x1B3C,185,85.0,manutencao,49.3,12.0,1.33,84.44,39.40
+22,MedBase,medico,0x1B3C,185,86.9,ativo,33.8,12.0,1.30,44.14,39.46
+23,MedBase,medico,0x1B3C,185,77.7,ativo,5.0,12.0,1.10,71.54,39.47
+24,MedBase,medico,0x1B3C,185,82.8,ativo,39.8,12.0,1.27,42.73,41.44
+25,MedBase,medico,0x1B3C,185,74.5,ativo,57.6,12.0,1.84,63.18,39.61
+26,MedBase,medico,0x1B3C,185,89.3,ativo,13.8,12.0,1.00,39.74,43.98
+27,MedBase,medico,0x1B3C,185,96.7,ativo,25.1,12.0,1.21,43.92,38.54
+28,MedBase,medico,0x1B3C,185,93.5,ativo,39.2,12.0,1.04,45.83,38.48
+29,MedBase,medico,0x1B3C,185,84.4,ativo,14.3,12.0,0.80,50.74,39.23
+30,MedBase,medico,0x1B3C,185,85.5,manutencao,49.9,12.0,1.32,59.34,41.95
+31,MedBase,medico,0x1B3C,185,100.0,ativo,52.6,12.0,1.52,43.27,41.91
+32,MedBase,medico,0x1B3C,185,93.8,ativo,35.6,12.0,1.18,40.73,41.86
+33,MedBase,medico,0x1B3C,185,81.8,ativo,37.4,12.0,1.32,50.65,42.18
+34,MedBase,medico,0x1B3C,185,67.2,alerta,30.9,12.0,0.84,86.88,38.45
+35,MedBase,medico,0x1B3C,185,92.8,ativo,40.6,12.0,1.16,46.20,42.38
+36,MedBase,medico,0x1B3C,185,73.6,manutencao,55.1,12.0,1.46,85.49,40.25
+37,MedBase,medico,0x1B3C,185,77.8,ativo,44.8,12.0,1.33,45.95,37.15
+38,MedBase,medico,0x1B3C,185,82.5,ativo,26.6,12.0,1.12,60.31,35.72
+39,MedBase,medico,0x1B3C,185,78.5,ativo,71.3,12.0,1.74,68.93,38.00
+40,MedBase,medico,0x1B3C,185,88.1,ativo,46.0,12.0,1.46,49.07,40.84
+41,MedBase,medico,0x1B3C,185,90.4,ativo,59.5,12.0,1.31,31.95,42.28
+42,MedBase,medico,0x1B3C,185,77.9,ativo,11.5,12.0,0.96,58.22,43.88
+43,MedBase,medico,0x1B3C,185,82.4,ativo,28.9,12.0,1.17,48.01,38.25
+44,MedBase,medico,0x1B3C,185,97.5,ativo,65.4,12.0,1.49,56.70,41.56
+45,MedBase,medico,0x1B3C,185,93.7,ativo,56.4,12.0,1.62,55.21,40.96
+46,MedBase,medico,0x1B3C,185,85.6,ativo,35.0,12.0,1.05,65.14,43.74
+47,MedBase,medico,0x1B3C,185,86.8,ativo,69.3,12.0,1.68,58.29,38.09
+48,MedBase,medico,0x1B3C,185,85.4,ativo,21.6,12.0,1.07,46.60,43.88
+49,MedBase,medico,0x1B3C,185,85.1,ativo,49.5,12.0,1.43,51.53,38.12
+50,MedBase,medico,0x1B3C,185,79.8,ativo,22.5,12.0,1.16,54.50,36.71
+51,MedBase,medico,0x1B3C,185,92.0,ativo,64.1,12.0,1.76,52.50,38.59
+52,MedBase,medico,0x1B3C,185,87.4,ativo,51.8,12.0,1.65,62.31,40.02
+53,MedBase,medico,0x1B3C,185,70.8,alerta,48.9,12.0,1.39,91.90,40.79
+54,MedBase,medico,0x1B3C,185,80.6,ativo,50.6,12.0,1.38,58.58,40.83
+55,MedBase,medico,0x1B3C,185,69.6,alerta,70.9,12.0,1.52,83.41,36.56
+56,MedBase,medico,0x1B3C,185,80.2,manutencao,42.9,12.0,1.52,48.95,41.07
+57,MedBase,medico,0x1B3C,185,77.1,ativo,38.2,12.0,1.17,47.90,39.63
+58,MedBase,medico,0x1B3C,185,97.9,ativo,39.0,12.0,1.58,43.54,43.79
+59,MedBase,medico,0x1B3C,185,73.9,alerta,51.6,12.0,1.93,103.40,38.87
+60,MedBase,medico,0x1B3C,185,82.5,ativo,36.2,12.0,1.39,52.46,40.84
+61,MedBase,medico,0x1B3C,185,87.4,ativo,52.6,12.0,1.17,58.58,38.32
+62,MedBase,medico,0x1B3C,185,84.6,ativo,46.5,12.0,1.28,60.52,37.60
+63,MedBase,medico,0x1B3C,185,80.9,ativo,44.2,12.0,1.40,45.78,41.73
+64,MedBase,medico,0x1B3C,185,71.8,ativo,9.7,12.0,0.92,51.26,40.07
+65,MedBase,medico,0x1B3C,185,81.6,manutencao,62.1,12.0,1.42,65.63,38.09
+66,MedBase,medico,0x1B3C,185,93.7,ativo,37.2,12.0,0.89,30.11,38.61
+67,MedBase,medico,0x1B3C,185,82.1,ativo,45.7,12.0,1.33,63.86,38.93
+68,MedBase,medico,0x1B3C,185,83.4,manutencao,17.4,12.0,1.08,66.59,39.99
+69,MedBase,medico,0x1B3C,185,80.6,ativo,82.1,12.0,1.80,51.50,40.42
+70,MedBase,medico,0x1B3C,185,74.7,manutencao,52.1,12.0,1.54,72.75,42.25
+71,MedBase,medico,0x1B3C,185,90.1,manutencao,54.5,12.0,1.69,52.38,39.64
+72,MedBase,medico,0x1B3C,185,73.8,alerta,34.7,12.0,1.21,109.20,39.94
+73,MedBase,medico,0x1B3C,185,83.4,ativo,46.4,12.0,1.39,57.80,42.61
+74,MedBase,medico,0x1B3C,185,75.2,alerta,55.6,12.0,1.33,94.99,42.16
+75,MedBase,medico,0x1B3C,185,86.5,ativo,61.0,12.0,1.64,65.71,40.86
+76,MedBase,medico,0x1B3C,185,87.4,ativo,5.0,12.0,0.92,9.75,36.83
+77,MedBase,medico,0x1B3C,185,88.3,ativo,24.1,12.0,1.00,58.37,39.31
+78,MedBase,medico,0x1B3C,185,85.0,ativo,52.3,12.0,1.70,55.19,38.28
+79,MedBase,medico,0x1B3C,185,84.8,ativo,20.4,12.0,1.02,40.75,42.13
+80,MedBase,medico,0x1B3C,185,83.0,ativo,43.1,12.0,1.38,58.87,38.28
+81,MedBase,medico,0x1B3C,185,87.7,manutencao,37.6,12.0,1.06,71.24,41.21
+82,MedBase,medico,0x1B3C,185,86.6,ativo,58.2,12.0,1.59,59.94,37.47
+83,MedBase,medico,0x1B3C,185,70.9,alerta,36.3,12.0,1.39,107.70,43.87
+84,MedBase,medico,0x1B3C,185,79.2,manutencao,51.3,12.0,1.56,76.48,40.54
+1,Reator Solar,energia,0x2C4D,240,79.6,ativo,31.9,24.0,1.14,63.45,45.13
+2,Reator Solar,energia,0x2C4D,240,84.7,ativo,38.3,24.0,1.40,59.34,42.65
+3,Reator Solar,energia,0x2C4D,240,76.5,ativo,15.2,24.0,0.84,46.97,45.22
+4,Reator Solar,energia,0x2C4D,240,77.6,ativo,56.2,24.0,1.56,66.93,45.94
+5,Reator Solar,energia,0x2C4D,240,65.2,ativo,38.4,24.0,0.96,68.36,45.11
+6,Reator Solar,energia,0x2C4D,240,88.3,ativo,48.6,24.0,1.34,60.23,44.06
+7,Reator Solar,energia,0x2C4D,240,74.9,alerta,35.0,24.0,1.36,102.41,43.21
+8,Reator Solar,energia,0x2C4D,240,84.9,ativo,46.8,24.0,1.28,49.86,44.04
+9,Reator Solar,energia,0x2C4D,240,61.3,alerta,52.9,24.0,1.28,106.67,45.34
+10,Reator Solar,energia,0x2C4D,240,70.4,ativo,71.5,24.0,1.73,75.47,45.36
+11,Reator Solar,energia,0x2C4D,240,78.9,ativo,71.2,24.0,1.63,76.62,43.83
+12,Reator Solar,energia,0x2C4D,240,72.5,ativo,53.2,24.0,1.69,65.93,44.73
+13,Reator Solar,energia,0x2C4D,240,78.4,ativo,16.3,24.0,0.87,57.26,47.76
+14,Reator Solar,energia,0x2C4D,240,70.9,manutencao,70.8,24.0,1.73,87.95,45.99
+15,Reator Solar,energia,0x2C4D,240,80.8,ativo,37.7,24.0,1.07,44.33,46.43
+16,Reator Solar,energia,0x2C4D,240,75.8,ativo,45.2,24.0,1.49,64.52,43.81
+17,Reator Solar,energia,0x2C4D,240,67.5,alerta,73.4,24.0,1.80,117.73,47.60
+18,Reator Solar,energia,0x2C4D,240,84.3,ativo,55.8,24.0,1.58,49.98,46.52
+19,Reator Solar,energia,0x2C4D,240,69.4,manutencao,68.5,24.0,1.79,103.14,44.58
+20,Reator Solar,energia,0x2C4D,240,78.3,ativo,46.8,24.0,1.40,71.89,44.40
+21,Reator Solar,energia,0x2C4D,240,73.1,ativo,53.1,24.0,1.47,59.48,44.65
+22,Reator Solar,energia,0x2C4D,240,78.1,ativo,76.9,24.0,1.76,65.93,40.93
+23,Reator Solar,energia,0x2C4D,240,73.2,manutencao,32.7,24.0,1.42,78.40,47.70
+24,Reator Solar,energia,0x2C4D,240,80.3,ativo,43.4,24.0,1.35,75.20,40.48
+25,Reator Solar,energia,0x2C4D,240,76.2,ativo,45.3,24.0,1.48,66.93,44.35
+26,Reator Solar,energia,0x2C4D,240,87.2,ativo,48.3,24.0,1.55,58.93,44.00
+27,Reator Solar,energia,0x2C4D,240,80.8,ativo,45.0,24.0,1.59,37.70,42.28
+28,Reator Solar,energia,0x2C4D,240,77.5,ativo,40.4,24.0,1.08,51.97,43.40
+29,Reator Solar,energia,0x2C4D,240,87.6,manutencao,37.6,24.0,1.22,61.64,41.30
+30,Reator Solar,energia,0x2C4D,240,73.0,ativo,43.5,24.0,1.11,57.42,45.42
+31,Reator Solar,energia,0x2C4D,240,82.9,ativo,21.2,24.0,1.20,46.25,46.39
+32,Reator Solar,energia,0x2C4D,240,70.4,ativo,39.3,24.0,1.35,70.52,44.84
+33,Reator Solar,energia,0x2C4D,240,87.1,ativo,40.4,24.0,1.42,72.29,49.04
+34,Reator Solar,energia,0x2C4D,240,73.5,ativo,71.7,24.0,1.55,57.98,44.15
+35,Reator Solar,energia,0x2C4D,240,79.3,ativo,33.3,24.0,1.12,51.82,43.36
+36,Reator Solar,energia,0x2C4D,240,82.1,ativo,61.0,24.0,1.50,60.63,43.69
+37,Reator Solar,energia,0x2C4D,240,70.4,ativo,12.4,24.0,0.80,48.60,47.77
+38,Reator Solar,energia,0x2C4D,240,84.0,manutencao,52.4,24.0,1.58,69.22,46.17
+39,Reator Solar,energia,0x2C4D,240,76.0,ativo,55.1,24.0,1.58,59.91,42.87
+40,Reator Solar,energia,0x2C4D,240,80.6,ativo,50.9,24.0,1.32,61.36,46.26
+41,Reator Solar,energia,0x2C4D,240,90.9,ativo,68.0,24.0,1.51,73.47,44.06
+42,Reator Solar,energia,0x2C4D,240,80.5,ativo,37.6,24.0,1.00,56.84,42.00
+43,Reator Solar,energia,0x2C4D,240,90.6,ativo,30.7,24.0,1.23,44.15,43.86
+44,Reator Solar,energia,0x2C4D,240,79.7,ativo,76.3,24.0,1.69,76.00,45.31
+45,Reator Solar,energia,0x2C4D,240,76.9,ativo,44.1,24.0,1.34,54.46,46.44
+46,Reator Solar,energia,0x2C4D,240,84.2,ativo,72.7,24.0,1.94,60.09,45.87
+47,Reator Solar,energia,0x2C4D,240,80.2,ativo,34.2,24.0,1.48,61.13,44.68
+48,Reator Solar,energia,0x2C4D,240,59.8,manutencao,8.7,24.0,1.03,83.70,45.62
+49,Reator Solar,energia,0x2C4D,240,79.8,ativo,81.1,24.0,1.95,69.48,44.24
+50,Reator Solar,energia,0x2C4D,240,60.1,manutencao,49.6,24.0,1.55,77.37,43.80
+51,Reator Solar,energia,0x2C4D,240,73.2,ativo,46.0,24.0,1.07,70.20,46.63
+52,Reator Solar,energia,0x2C4D,240,62.6,ativo,27.1,24.0,1.33,42.28,44.42
+53,Reator Solar,energia,0x2C4D,240,85.6,ativo,32.8,24.0,1.27,59.31,48.79
+54,Reator Solar,energia,0x2C4D,240,82.6,ativo,18.3,24.0,1.21,46.19,44.00
+55,Reator Solar,energia,0x2C4D,240,69.1,ativo,49.1,24.0,1.57,70.51,41.94
+56,Reator Solar,energia,0x2C4D,240,85.2,ativo,11.2,24.0,0.80,57.82,45.66
+57,Reator Solar,energia,0x2C4D,240,88.0,manutencao,53.4,24.0,1.57,99.45,44.69
+58,Reator Solar,energia,0x2C4D,240,83.0,ativo,52.9,24.0,1.39,50.76,49.74
+59,Reator Solar,energia,0x2C4D,240,74.9,ativo,61.5,24.0,1.56,64.60,46.24
+60,Reator Solar,energia,0x2C4D,240,77.5,manutencao,79.4,24.0,1.87,83.64,44.11
+61,Reator Solar,energia,0x2C4D,240,78.2,ativo,38.2,24.0,1.42,44.34,46.84
+62,Reator Solar,energia,0x2C4D,240,82.6,ativo,24.7,24.0,1.31,65.59,47.04
+63,Reator Solar,energia,0x2C4D,240,80.8,manutencao,52.3,24.0,1.22,79.07,45.85
+64,Reator Solar,energia,0x2C4D,240,81.2,ativo,50.2,24.0,1.66,71.63,39.39
+65,Reator Solar,energia,0x2C4D,240,78.8,ativo,13.5,24.0,0.98,65.62,42.95
+66,Reator Solar,energia,0x2C4D,240,68.6,manutencao,32.9,24.0,1.44,77.89,46.04
+67,Reator Solar,energia,0x2C4D,240,93.0,ativo,55.8,24.0,1.48,59.64,42.30
+68,Reator Solar,energia,0x2C4D,240,77.7,ativo,41.3,24.0,1.25,55.67,46.51
+69,Reator Solar,energia,0x2C4D,240,72.6,alerta,44.8,24.0,1.44,96.03,49.58
+70,Reator Solar,energia,0x2C4D,240,76.8,alerta,69.6,24.0,1.55,122.46,47.11
+71,Reator Solar,energia,0x2C4D,240,68.2,alerta,41.1,24.0,1.29,105.26,47.92
+72,Reator Solar,energia,0x2C4D,240,68.6,manutencao,59.8,24.0,1.69,94.32,46.61
+73,Reator Solar,energia,0x2C4D,240,61.5,alerta,29.4,24.0,0.93,105.58,44.95
+74,Reator Solar,energia,0x2C4D,240,59.3,ativo,22.5,24.0,1.25,62.38,45.84
+75,Reator Solar,energia,0x2C4D,240,90.1,ativo,42.4,24.0,1.38,74.37,48.15
+76,Reator Solar,energia,0x2C4D,240,63.8,alerta,39.1,24.0,1.37,103.11,44.33
+77,Reator Solar,energia,0x2C4D,240,79.2,ativo,86.4,24.0,1.90,85.51,45.83
+78,Reator Solar,energia,0x2C4D,240,69.9,manutencao,29.6,24.0,1.24,90.17,45.20
+79,Reator Solar,energia,0x2C4D,240,65.5,manutencao,19.3,24.0,0.80,82.83,47.37
+80,Reator Solar,energia,0x2C4D,240,59.2,manutencao,41.6,24.0,1.30,109.30,42.21
+81,Reator Solar,energia,0x2C4D,240,91.9,ativo,53.1,24.0,1.56,55.60,45.78
+82,Reator Solar,energia,0x2C4D,240,69.3,manutencao,60.8,24.0,1.36,91.16,45.48
+83,Reator Solar,energia,0x2C4D,240,79.8,ativo,33.8,24.0,1.07,54.84,42.91
+84,Reator Solar,energia,0x2C4D,240,66.9,manutencao,57.8,24.0,1.35,83.96,43.87
+1,BioLab,laboratorio,0x2D5E,310,80.3,ativo,41.2,12.0,1.40,46.25,51.19
+2,BioLab,laboratorio,0x2D5E,310,78.9,ativo,46.2,12.0,1.47,75.19,47.29
+3,BioLab,laboratorio,0x2D5E,310,79.5,ativo,32.1,12.0,1.40,60.96,47.41
+4,BioLab,laboratorio,0x2D5E,310,46.8,alerta,40.8,12.0,1.29,117.08,53.44
+5,BioLab,laboratorio,0x2D5E,310,76.8,ativo,6.6,12.0,0.98,65.12,51.90
+6,BioLab,laboratorio,0x2D5E,310,69.8,ativo,81.2,12.0,1.68,86.87,47.91
+7,BioLab,laboratorio,0x2D5E,310,76.6,alerta,40.3,12.0,1.44,104.45,51.07
+8,BioLab,laboratorio,0x2D5E,310,76.3,ativo,12.9,12.0,0.84,66.71,52.07
+9,BioLab,laboratorio,0x2D5E,310,72.9,ativo,34.5,12.0,1.18,56.01,50.02
+10,BioLab,laboratorio,0x2D5E,310,83.4,ativo,59.6,12.0,1.53,63.63,51.56
+11,BioLab,laboratorio,0x2D5E,310,65.0,manutencao,28.1,12.0,1.06,79.48,51.60
+12,BioLab,laboratorio,0x2D5E,310,66.9,ativo,45.5,12.0,1.34,77.50,51.25
+13,BioLab,laboratorio,0x2D5E,310,64.2,manutencao,45.5,12.0,1.53,74.17,51.97
+14,BioLab,laboratorio,0x2D5E,310,76.9,ativo,54.9,12.0,1.39,69.13,48.04
+15,BioLab,laboratorio,0x2D5E,310,84.6,ativo,27.3,12.0,1.08,47.15,48.46
+16,BioLab,laboratorio,0x2D5E,310,67.9,manutencao,51.8,12.0,1.52,96.02,51.76
+17,BioLab,laboratorio,0x2D5E,310,70.5,ativo,44.0,12.0,1.53,83.26,48.44
+18,BioLab,laboratorio,0x2D5E,310,87.5,ativo,54.1,12.0,1.51,61.50,50.51
+19,BioLab,laboratorio,0x2D5E,310,76.2,ativo,44.2,12.0,1.37,62.29,52.34
+20,BioLab,laboratorio,0x2D5E,310,65.6,ativo,50.8,12.0,1.33,81.54,51.37
+21,BioLab,laboratorio,0x2D5E,310,81.2,manutencao,48.5,12.0,1.58,63.09,54.46
+22,BioLab,laboratorio,0x2D5E,310,85.5,ativo,23.0,12.0,0.97,59.48,51.25
+23,BioLab,laboratorio,0x2D5E,310,80.6,manutencao,13.2,12.0,1.11,77.22,50.87
+24,BioLab,laboratorio,0x2D5E,310,76.5,manutencao,5.0,12.0,0.96,64.54,51.39
+25,BioLab,laboratorio,0x2D5E,310,86.2,ativo,41.8,12.0,1.22,57.12,53.83
+26,BioLab,laboratorio,0x2D5E,310,70.3,manutencao,40.7,12.0,1.08,92.81,47.76
+27,BioLab,laboratorio,0x2D5E,310,73.9,manutencao,88.0,12.0,1.75,96.09,54.88
+28,BioLab,laboratorio,0x2D5E,310,61.1,alerta,49.0,12.0,1.42,116.30,49.88
+29,BioLab,laboratorio,0x2D5E,310,66.8,ativo,47.4,12.0,1.47,72.84,48.05
+30,BioLab,laboratorio,0x2D5E,310,80.6,ativo,31.9,12.0,1.16,49.57,49.23
+31,BioLab,laboratorio,0x2D5E,310,86.6,ativo,33.5,12.0,1.32,54.85,51.78
+32,BioLab,laboratorio,0x2D5E,310,84.1,ativo,35.4,12.0,1.01,49.20,50.22
+33,BioLab,laboratorio,0x2D5E,310,80.9,ativo,36.6,12.0,1.62,48.24,51.69
+34,BioLab,laboratorio,0x2D5E,310,62.5,alerta,47.5,12.0,1.05,114.71,55.09
+35,BioLab,laboratorio,0x2D5E,310,79.8,ativo,63.4,12.0,1.58,64.96,46.73
+36,BioLab,laboratorio,0x2D5E,310,77.2,ativo,26.8,12.0,1.16,58.86,50.22
+37,BioLab,laboratorio,0x2D5E,310,68.6,ativo,63.9,12.0,1.40,71.27,55.13
+38,BioLab,laboratorio,0x2D5E,310,78.7,ativo,28.1,12.0,1.08,64.12,51.36
+39,BioLab,laboratorio,0x2D5E,310,65.8,alerta,41.1,12.0,1.10,104.54,53.11
+40,BioLab,laboratorio,0x2D5E,310,76.7,ativo,30.2,12.0,1.20,61.64,54.23
+41,BioLab,laboratorio,0x2D5E,310,56.8,alerta,57.1,12.0,1.41,112.93,51.91
+42,BioLab,laboratorio,0x2D5E,310,84.2,ativo,31.1,12.0,1.10,54.77,50.15
+43,BioLab,laboratorio,0x2D5E,310,82.4,ativo,75.8,12.0,2.10,61.90,51.42
+44,BioLab,laboratorio,0x2D5E,310,67.6,manutencao,33.7,12.0,1.07,80.05,50.99
+45,BioLab,laboratorio,0x2D5E,310,83.9,ativo,28.5,12.0,1.58,56.25,51.42
+46,BioLab,laboratorio,0x2D5E,310,89.9,ativo,65.2,12.0,1.67,52.18,51.70
+47,BioLab,laboratorio,0x2D5E,310,88.2,ativo,59.6,12.0,1.57,42.25,49.31
+48,BioLab,laboratorio,0x2D5E,310,86.5,ativo,65.0,12.0,1.38,69.08,53.31
+49,BioLab,laboratorio,0x2D5E,310,77.9,ativo,49.9,12.0,1.39,51.86,50.63
+50,BioLab,laboratorio,0x2D5E,310,77.0,ativo,34.9,12.0,1.17,65.58,52.16
+51,BioLab,laboratorio,0x2D5E,310,70.1,manutencao,46.7,12.0,1.10,94.99,51.28
+52,BioLab,laboratorio,0x2D5E,310,79.7,manutencao,9.8,12.0,0.80,79.46,51.27
+53,BioLab,laboratorio,0x2D5E,310,74.8,ativo,57.0,12.0,1.66,76.30,50.76
+54,BioLab,laboratorio,0x2D5E,310,71.4,alerta,67.0,12.0,1.74,103.24,52.63
+55,BioLab,laboratorio,0x2D5E,310,88.9,ativo,29.2,12.0,1.13,64.09,51.39
+56,BioLab,laboratorio,0x2D5E,310,80.9,ativo,55.4,12.0,1.51,69.80,50.76
+57,BioLab,laboratorio,0x2D5E,310,66.7,manutencao,34.4,12.0,1.24,98.13,48.29
+58,BioLab,laboratorio,0x2D5E,310,63.7,ativo,45.6,12.0,1.21,72.97,52.60
+59,BioLab,laboratorio,0x2D5E,310,79.6,ativo,39.6,12.0,1.40,69.59,49.90
+60,BioLab,laboratorio,0x2D5E,310,85.3,ativo,52.1,12.0,1.25,70.31,49.11
+61,BioLab,laboratorio,0x2D5E,310,85.2,ativo,50.2,12.0,1.46,62.19,52.64
+62,BioLab,laboratorio,0x2D5E,310,79.6,ativo,60.7,12.0,1.48,64.20,48.89
+63,BioLab,laboratorio,0x2D5E,310,53.2,alerta,58.1,12.0,1.81,133.39,48.03
+64,BioLab,laboratorio,0x2D5E,310,88.0,ativo,36.8,12.0,1.28,41.45,51.81
+65,BioLab,laboratorio,0x2D5E,310,79.4,ativo,16.9,12.0,1.09,69.89,49.71
+66,BioLab,laboratorio,0x2D5E,310,62.9,ativo,40.2,12.0,1.22,61.83,52.19
+67,BioLab,laboratorio,0x2D5E,310,70.5,ativo,35.0,12.0,1.40,75.42,51.02
+68,BioLab,laboratorio,0x2D5E,310,57.9,alerta,45.6,12.0,1.40,110.80,52.15
+69,BioLab,laboratorio,0x2D5E,310,69.6,alerta,54.9,12.0,1.06,120.44,45.18
+70,BioLab,laboratorio,0x2D5E,310,85.2,ativo,39.3,12.0,1.08,51.94,53.33
+71,BioLab,laboratorio,0x2D5E,310,73.9,alerta,44.0,12.0,1.18,99.52,49.25
+72,BioLab,laboratorio,0x2D5E,310,83.1,ativo,14.1,12.0,0.92,50.02,53.87
+73,BioLab,laboratorio,0x2D5E,310,89.2,ativo,44.4,12.0,1.19,54.27,49.68
+74,BioLab,laboratorio,0x2D5E,310,66.7,alerta,22.9,12.0,0.80,101.39,47.67
+75,BioLab,laboratorio,0x2D5E,310,66.6,manutencao,29.3,12.0,1.47,89.72,51.77
+76,BioLab,laboratorio,0x2D5E,310,73.4,ativo,48.9,12.0,1.26,79.28,48.87
+77,BioLab,laboratorio,0x2D5E,310,68.9,manutencao,48.0,12.0,1.31,89.27,50.81
+78,BioLab,laboratorio,0x2D5E,310,76.4,manutencao,49.3,12.0,1.41,83.46,52.87
+79,BioLab,laboratorio,0x2D5E,310,75.9,ativo,46.9,12.0,1.65,57.08,52.82
+80,BioLab,laboratorio,0x2D5E,310,79.5,ativo,73.4,12.0,1.80,74.01,50.16
+81,BioLab,laboratorio,0x2D5E,310,76.2,ativo,30.9,12.0,1.15,67.38,49.75
+82,BioLab,laboratorio,0x2D5E,310,68.5,ativo,52.0,12.0,1.54,76.88,53.21
+83,BioLab,laboratorio,0x2D5E,310,75.7,manutencao,50.5,12.0,1.42,83.24,55.71
+84,BioLab,laboratorio,0x2D5E,310,73.3,ativo,52.8,12.0,1.50,59.35,53.53
+1,LogiStore,armazenagem,0x3E6F,420,66.2,ativo,66.4,12.0,1.73,77.22,64.51
+2,LogiStore,armazenagem,0x3E6F,420,73.9,ativo,73.6,12.0,1.75,85.09,59.64
+3,LogiStore,armazenagem,0x3E6F,420,77.3,ativo,45.3,12.0,1.25,78.46,60.82
+4,LogiStore,armazenagem,0x3E6F,420,51.7,alerta,55.2,12.0,1.11,132.09,60.00
+5,LogiStore,armazenagem,0x3E6F,420,58.5,alerta,56.9,12.0,1.46,127.40,62.43
+6,LogiStore,armazenagem,0x3E6F,420,76.0,manutencao,27.1,12.0,1.19,100.57,62.28
+7,LogiStore,armazenagem,0x3E6F,420,63.7,manutencao,20.2,12.0,0.91,104.39,61.96
+8,LogiStore,armazenagem,0x3E6F,420,54.1,alerta,58.8,12.0,1.36,139.94,66.67
+9,LogiStore,armazenagem,0x3E6F,420,69.4,manutencao,55.5,12.0,1.43,86.04,59.75
+10,LogiStore,armazenagem,0x3E6F,420,58.9,manutencao,76.0,12.0,1.80,116.56,60.34
+11,LogiStore,armazenagem,0x3E6F,420,80.8,ativo,44.4,12.0,1.44,73.16,60.28
+12,LogiStore,armazenagem,0x3E6F,420,60.2,ativo,40.3,12.0,1.32,75.26,60.89
+13,LogiStore,armazenagem,0x3E6F,420,58.9,ativo,28.5,12.0,1.22,88.65,58.65
+14,LogiStore,armazenagem,0x3E6F,420,76.2,manutencao,59.0,12.0,1.53,94.63,59.70
+15,LogiStore,armazenagem,0x3E6F,420,70.4,manutencao,56.3,12.0,1.53,109.24,61.15
+16,LogiStore,armazenagem,0x3E6F,420,75.1,manutencao,30.5,12.0,0.91,107.43,61.47
+17,LogiStore,armazenagem,0x3E6F,420,69.0,ativo,58.9,12.0,1.50,80.68,63.76
+18,LogiStore,armazenagem,0x3E6F,420,56.4,alerta,48.8,12.0,1.47,130.45,62.78
+19,LogiStore,armazenagem,0x3E6F,420,77.4,ativo,40.3,12.0,1.32,77.14,61.39
+20,LogiStore,armazenagem,0x3E6F,420,77.9,ativo,45.8,12.0,1.26,77.63,60.90
+21,LogiStore,armazenagem,0x3E6F,420,89.4,ativo,35.6,12.0,1.31,77.36,61.16
+22,LogiStore,armazenagem,0x3E6F,420,59.4,alerta,50.8,12.0,1.32,121.38,61.46
+23,LogiStore,armazenagem,0x3E6F,420,76.2,ativo,67.7,12.0,1.64,79.68,66.37
+24,LogiStore,armazenagem,0x3E6F,420,69.0,ativo,32.5,12.0,1.07,88.17,60.23
+25,LogiStore,armazenagem,0x3E6F,420,73.6,ativo,58.2,12.0,1.41,72.61,61.41
+26,LogiStore,armazenagem,0x3E6F,420,76.3,ativo,30.4,12.0,1.29,68.08,59.92
+27,LogiStore,armazenagem,0x3E6F,420,83.1,ativo,56.4,12.0,1.60,87.25,66.59
+28,LogiStore,armazenagem,0x3E6F,420,56.8,alerta,33.9,12.0,1.10,112.90,60.36
+29,LogiStore,armazenagem,0x3E6F,420,76.3,ativo,45.9,12.0,1.45,82.60,62.17
+30,LogiStore,armazenagem,0x3E6F,420,83.8,manutencao,49.2,12.0,1.14,83.05,57.48
+31,LogiStore,armazenagem,0x3E6F,420,61.1,alerta,36.6,12.0,1.56,125.44,62.41
+32,LogiStore,armazenagem,0x3E6F,420,67.0,ativo,45.7,12.0,1.40,67.05,60.60
+33,LogiStore,armazenagem,0x3E6F,420,67.5,manutencao,30.4,12.0,1.10,96.64,61.14
+34,LogiStore,armazenagem,0x3E6F,420,81.6,ativo,39.7,12.0,1.23,77.38,62.18
+35,LogiStore,armazenagem,0x3E6F,420,79.5,ativo,62.6,12.0,1.78,95.56,59.23
+36,LogiStore,armazenagem,0x3E6F,420,74.1,ativo,43.2,12.0,1.25,65.46,61.15
+37,LogiStore,armazenagem,0x3E6F,420,69.6,manutencao,30.7,12.0,1.02,99.10,61.26
+38,LogiStore,armazenagem,0x3E6F,420,89.3,ativo,50.0,12.0,1.50,61.14,58.39
+39,LogiStore,armazenagem,0x3E6F,420,62.5,manutencao,26.2,12.0,1.13,99.64,59.15
+40,LogiStore,armazenagem,0x3E6F,420,82.6,ativo,30.5,12.0,0.98,79.38,61.94
+41,LogiStore,armazenagem,0x3E6F,420,62.9,ativo,31.6,12.0,1.19,93.83,58.89
+42,LogiStore,armazenagem,0x3E6F,420,73.7,manutencao,5.0,12.0,1.02,78.41,61.62
+43,LogiStore,armazenagem,0x3E6F,420,81.6,ativo,54.9,12.0,1.14,69.57,61.24
+44,LogiStore,armazenagem,0x3E6F,420,77.3,ativo,59.2,12.0,1.64,78.28,57.27
+45,LogiStore,armazenagem,0x3E6F,420,64.9,alerta,25.4,12.0,1.22,123.97,61.21
+46,LogiStore,armazenagem,0x3E6F,420,53.1,alerta,79.0,12.0,1.72,116.51,63.43
+47,LogiStore,armazenagem,0x3E6F,420,81.7,ativo,50.0,12.0,1.50,78.81,62.35
+48,LogiStore,armazenagem,0x3E6F,420,80.8,ativo,16.6,12.0,1.08,79.36,63.37
+49,LogiStore,armazenagem,0x3E6F,420,82.2,ativo,61.7,12.0,1.97,70.94,59.95
+50,LogiStore,armazenagem,0x3E6F,420,70.6,ativo,29.0,12.0,0.80,74.11,61.70
+51,LogiStore,armazenagem,0x3E6F,420,82.5,manutencao,45.2,12.0,1.56,94.39,62.61
+52,LogiStore,armazenagem,0x3E6F,420,83.6,ativo,46.0,12.0,1.46,76.82,60.38
+53,LogiStore,armazenagem,0x3E6F,420,89.6,ativo,40.1,12.0,1.37,79.89,63.24
+54,LogiStore,armazenagem,0x3E6F,420,57.3,ativo,54.3,12.0,1.15,104.81,61.30
+55,LogiStore,armazenagem,0x3E6F,420,62.7,manutencao,17.1,12.0,1.06,98.11,59.98
+56,LogiStore,armazenagem,0x3E6F,420,88.4,manutencao,60.0,12.0,1.72,99.09,63.92
+57,LogiStore,armazenagem,0x3E6F,420,54.6,manutencao,41.6,12.0,1.45,99.86,60.61
+58,LogiStore,armazenagem,0x3E6F,420,84.5,ativo,58.5,12.0,1.64,81.19,60.89
+59,LogiStore,armazenagem,0x3E6F,420,53.7,alerta,5.6,12.0,0.89,121.50,63.38
+60,LogiStore,armazenagem,0x3E6F,420,73.0,alerta,27.0,12.0,1.09,115.43,66.02
+61,LogiStore,armazenagem,0x3E6F,420,81.8,ativo,38.0,12.0,1.15,80.06,58.76
+62,LogiStore,armazenagem,0x3E6F,420,73.2,ativo,73.7,12.0,1.68,63.84,61.97
+63,LogiStore,armazenagem,0x3E6F,420,69.3,manutencao,43.4,12.0,1.31,106.96,57.89
+64,LogiStore,armazenagem,0x3E6F,420,78.8,ativo,33.9,12.0,0.99,79.98,63.21
+65,LogiStore,armazenagem,0x3E6F,420,55.3,manutencao,57.7,12.0,1.28,114.31,59.19
+66,LogiStore,armazenagem,0x3E6F,420,70.9,ativo,41.7,12.0,1.23,85.80,60.07
+67,LogiStore,armazenagem,0x3E6F,420,71.0,manutencao,32.4,12.0,1.08,81.66,61.54
+68,LogiStore,armazenagem,0x3E6F,420,57.4,ativo,35.4,12.0,1.11,101.73,57.55
+69,LogiStore,armazenagem,0x3E6F,420,76.8,manutencao,69.4,12.0,1.56,94.97,62.19
+70,LogiStore,armazenagem,0x3E6F,420,49.0,alerta,39.9,12.0,1.54,124.78,61.16
+71,LogiStore,armazenagem,0x3E6F,420,88.7,ativo,34.6,12.0,1.23,84.37,57.92
+72,LogiStore,armazenagem,0x3E6F,420,66.9,ativo,46.8,12.0,1.35,75.43,58.99
+73,LogiStore,armazenagem,0x3E6F,420,81.0,ativo,42.7,12.0,1.35,79.59,59.02
+74,LogiStore,armazenagem,0x3E6F,420,79.7,ativo,91.9,12.0,1.90,81.46,62.50
+75,LogiStore,armazenagem,0x3E6F,420,58.3,alerta,37.7,12.0,1.36,115.02,60.14
+76,LogiStore,armazenagem,0x3E6F,420,76.0,manutencao,34.1,12.0,0.95,76.49,58.44
+77,LogiStore,armazenagem,0x3E6F,420,60.9,alerta,23.6,12.0,0.99,110.93,60.08
+78,LogiStore,armazenagem,0x3E6F,420,78.6,ativo,45.3,12.0,1.30,72.58,61.62
+79,LogiStore,armazenagem,0x3E6F,420,55.6,alerta,45.7,12.0,1.07,127.73,62.48
+80,LogiStore,armazenagem,0x3E6F,420,86.7,ativo,29.1,12.0,1.20,67.73,60.76
+81,LogiStore,armazenagem,0x3E6F,420,74.7,ativo,60.3,12.0,1.77,82.03,62.59
+82,LogiStore,armazenagem,0x3E6F,420,79.4,ativo,31.3,12.0,1.36,92.94,60.72
+83,LogiStore,armazenagem,0x3E6F,420,58.2,alerta,67.2,12.0,1.73,130.97,62.98
+84,LogiStore,armazenagem,0x3E6F,420,82.5,ativo,61.5,12.0,1.81,80.69,62.77
+1,TerraBot,mineracao,0x3F7A,580,57.8,ativo,75.7,24.0,1.79,116.60,75.29
+2,TerraBot,mineracao,0x3F7A,580,57.1,manutencao,70.8,24.0,1.78,111.36,74.61
+3,TerraBot,mineracao,0x3F7A,580,48.5,alerta,12.6,24.0,1.24,143.02,74.90
+4,TerraBot,mineracao,0x3F7A,580,64.6,manutencao,35.2,24.0,1.42,119.52,75.53
+5,TerraBot,mineracao,0x3F7A,580,48.8,alerta,63.8,24.0,1.48,132.84,76.27
+6,TerraBot,mineracao,0x3F7A,580,53.4,alerta,52.3,24.0,1.41,149.26,74.95
+7,TerraBot,mineracao,0x3F7A,580,59.8,ativo,81.4,24.0,1.57,113.82,71.68
+8,TerraBot,mineracao,0x3F7A,580,47.0,alerta,7.5,24.0,0.95,133.31,70.84
+9,TerraBot,mineracao,0x3F7A,580,72.0,ativo,71.8,24.0,1.76,100.15,77.70
+10,TerraBot,mineracao,0x3F7A,580,69.9,ativo,28.1,24.0,1.19,95.82,71.42
+11,TerraBot,mineracao,0x3F7A,580,77.9,ativo,56.5,24.0,1.73,94.51,74.89
+12,TerraBot,mineracao,0x3F7A,580,51.3,manutencao,27.7,24.0,1.34,133.66,73.06
+13,TerraBot,mineracao,0x3F7A,580,49.4,alerta,51.1,24.0,1.51,153.35,75.21
+14,TerraBot,mineracao,0x3F7A,580,52.2,alerta,56.2,24.0,1.38,163.17,75.98
+15,TerraBot,mineracao,0x3F7A,580,38.7,alerta,30.2,24.0,1.37,149.23,71.21
+16,TerraBot,mineracao,0x3F7A,580,58.2,ativo,70.4,24.0,1.68,109.84,77.40
+17,TerraBot,mineracao,0x3F7A,580,50.1,manutencao,41.5,24.0,1.45,112.98,71.70
+18,TerraBot,mineracao,0x3F7A,580,52.8,manutencao,37.9,24.0,1.00,116.41,75.02
+19,TerraBot,mineracao,0x3F7A,580,51.6,manutencao,74.8,24.0,1.64,124.87,78.11
+20,TerraBot,mineracao,0x3F7A,580,58.1,ativo,42.2,24.0,1.54,115.34,73.41
+21,TerraBot,mineracao,0x3F7A,580,62.6,ativo,27.2,24.0,1.14,96.25,77.32
+22,TerraBot,mineracao,0x3F7A,580,54.8,alerta,66.7,24.0,1.59,142.41,76.37
+23,TerraBot,mineracao,0x3F7A,580,54.1,alerta,43.4,24.0,1.20,131.26,77.93
+24,TerraBot,mineracao,0x3F7A,580,61.5,alerta,35.8,24.0,1.30,155.22,72.93
+25,TerraBot,mineracao,0x3F7A,580,63.1,ativo,68.2,24.0,1.54,104.31,73.87
+26,TerraBot,mineracao,0x3F7A,580,55.3,ativo,41.8,24.0,1.40,94.72,73.64
+27,TerraBot,mineracao,0x3F7A,580,52.0,ativo,37.4,24.0,1.29,101.32,74.50
+28,TerraBot,mineracao,0x3F7A,580,57.4,ativo,57.4,24.0,1.74,101.59,76.01
+29,TerraBot,mineracao,0x3F7A,580,64.6,ativo,73.2,24.0,1.80,88.66,75.95
+30,TerraBot,mineracao,0x3F7A,580,60.4,ativo,62.9,24.0,1.49,91.69,75.32
+31,TerraBot,mineracao,0x3F7A,580,55.3,manutencao,68.2,24.0,1.38,115.82,72.98
+32,TerraBot,mineracao,0x3F7A,580,47.4,alerta,70.2,24.0,1.83,154.11,75.33
+33,TerraBot,mineracao,0x3F7A,580,44.0,alerta,60.4,24.0,1.40,157.22,77.41
+34,TerraBot,mineracao,0x3F7A,580,55.8,manutencao,52.2,24.0,1.03,126.39,74.81
+35,TerraBot,mineracao,0x3F7A,580,54.9,alerta,43.7,24.0,1.18,138.17,75.18
+36,TerraBot,mineracao,0x3F7A,580,63.1,ativo,63.7,24.0,1.44,105.14,77.62
+37,TerraBot,mineracao,0x3F7A,580,63.3,ativo,34.5,24.0,1.18,89.16,74.70
+38,TerraBot,mineracao,0x3F7A,580,41.1,alerta,23.9,24.0,0.91,159.38,74.12
+39,TerraBot,mineracao,0x3F7A,580,47.2,alerta,28.0,24.0,1.12,163.04,77.82
+40,TerraBot,mineracao,0x3F7A,580,66.5,ativo,30.0,24.0,0.91,103.55,77.36
+41,TerraBot,mineracao,0x3F7A,580,58.7,ativo,42.0,24.0,1.44,105.25,74.25
+42,TerraBot,mineracao,0x3F7A,580,57.8,manutencao,64.4,24.0,1.43,130.74,75.70
+43,TerraBot,mineracao,0x3F7A,580,56.1,alerta,32.5,24.0,0.97,131.54,76.82
+44,TerraBot,mineracao,0x3F7A,580,57.1,ativo,12.2,24.0,1.22,103.89,76.58
+45,TerraBot,mineracao,0x3F7A,580,54.0,alerta,40.6,24.0,1.29,135.50,80.31
+46,TerraBot,mineracao,0x3F7A,580,58.8,ativo,53.4,24.0,1.32,117.60,73.72
+47,TerraBot,mineracao,0x3F7A,580,64.5,manutencao,51.9,24.0,1.47,118.31,74.93
+48,TerraBot,mineracao,0x3F7A,580,53.9,manutencao,71.6,24.0,1.69,121.85,74.01
+49,TerraBot,mineracao,0x3F7A,580,61.7,manutencao,55.1,24.0,1.46,125.78,73.75
+50,TerraBot,mineracao,0x3F7A,580,68.8,ativo,60.7,24.0,1.42,91.69,75.26
+51,TerraBot,mineracao,0x3F7A,580,36.6,alerta,50.0,24.0,1.23,146.40,74.31
+52,TerraBot,mineracao,0x3F7A,580,58.3,ativo,45.1,24.0,1.29,89.46,76.60
+53,TerraBot,mineracao,0x3F7A,580,67.9,ativo,17.3,24.0,1.06,96.92,72.98
+54,TerraBot,mineracao,0x3F7A,580,61.2,ativo,78.2,24.0,2.08,92.80,80.03
+55,TerraBot,mineracao,0x3F7A,580,68.9,ativo,62.5,24.0,1.44,104.15,74.82
+56,TerraBot,mineracao,0x3F7A,580,51.6,alerta,66.5,24.0,1.65,144.76,77.23
+57,TerraBot,mineracao,0x3F7A,580,67.1,ativo,33.0,24.0,1.06,89.52,73.80
+58,TerraBot,mineracao,0x3F7A,580,56.8,alerta,42.2,24.0,1.55,150.26,75.53
+59,TerraBot,mineracao,0x3F7A,580,61.0,alerta,43.9,24.0,1.37,132.64,73.26
+60,TerraBot,mineracao,0x3F7A,580,61.4,manutencao,30.9,24.0,1.65,105.95,72.53
+61,TerraBot,mineracao,0x3F7A,580,72.7,ativo,46.2,24.0,1.47,77.34,73.68
+62,TerraBot,mineracao,0x3F7A,580,48.7,ativo,47.1,24.0,1.06,97.10,73.97
+63,TerraBot,mineracao,0x3F7A,580,64.8,ativo,50.5,24.0,1.57,106.50,77.32
+64,TerraBot,mineracao,0x3F7A,580,52.1,alerta,54.2,24.0,1.51,139.81,74.38
+65,TerraBot,mineracao,0x3F7A,580,65.0,ativo,43.3,24.0,1.25,92.13,72.62
+66,TerraBot,mineracao,0x3F7A,580,57.6,manutencao,29.5,24.0,1.29,112.74,72.23
+67,TerraBot,mineracao,0x3F7A,580,58.2,ativo,37.6,24.0,1.28,111.40,75.08
+68,TerraBot,mineracao,0x3F7A,580,53.8,alerta,36.3,24.0,1.54,138.56,70.57
+69,TerraBot,mineracao,0x3F7A,580,75.6,ativo,73.4,24.0,2.00,88.66,76.86
+70,TerraBot,mineracao,0x3F7A,580,58.6,manutencao,22.1,24.0,0.98,109.52,76.84
+71,TerraBot,mineracao,0x3F7A,580,58.9,manutencao,20.7,24.0,1.01,108.41,76.78
+72,TerraBot,mineracao,0x3F7A,580,69.4,ativo,31.4,24.0,0.80,76.96,77.88
+73,TerraBot,mineracao,0x3F7A,580,44.7,alerta,74.6,24.0,1.93,152.47,74.45
+74,TerraBot,mineracao,0x3F7A,580,51.6,alerta,73.8,24.0,1.80,154.34,77.38
+75,TerraBot,mineracao,0x3F7A,580,67.3,ativo,39.7,24.0,0.92,76.76,73.00
+76,TerraBot,mineracao,0x3F7A,580,62.8,ativo,48.3,24.0,1.70,89.09,74.99
+77,TerraBot,mineracao,0x3F7A,580,44.8,alerta,45.5,24.0,1.13,158.77,73.68
+78,TerraBot,mineracao,0x3F7A,580,56.8,manutencao,63.5,24.0,1.59,125.14,73.87
+79,TerraBot,mineracao,0x3F7A,580,52.2,alerta,30.9,24.0,1.17,132.93,79.64
+80,TerraBot,mineracao,0x3F7A,580,60.8,alerta,41.5,24.0,1.36,123.43,74.15
+81,TerraBot,mineracao,0x3F7A,580,73.1,ativo,49.0,24.0,1.63,100.03,78.29
+82,TerraBot,mineracao,0x3F7A,580,66.7,alerta,36.3,24.0,1.14,119.68,79.70
+83,TerraBot,mineracao,0x3F7A,580,54.7,manutencao,67.5,24.0,1.76,145.26,71.94
+84,TerraBot,mineracao,0x3F7A,580,46.8,alerta,9.5,24.0,1.08,134.85,76.52
