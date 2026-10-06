@@ -12,3 +12,13 @@ ARQUIVO_CSV = os.path.join(PASTA_RAIZ, "data", "dados_aurora_siger.csv")
 def carregar_dados():
     df = pd.read_csv(ARQUIVO_CSV)
     return df
+
+def resumir_dados(df):
+    dados_resumidos = df.describe()
+    return dados_resumidos
+
+
+if __name__ == "__main__":
+    df = carregar_dados()
+    print(df.shape)
+    print(resumir_dados(df))
