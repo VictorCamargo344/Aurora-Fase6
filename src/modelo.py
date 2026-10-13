@@ -23,7 +23,7 @@ def treinar_modelo(X, y):
 def calcular_metricas(y_real, y_prev):
     mae = mean_absolute_error(y_real, y_prev)
     mse = mean_squared_error(y_real, y_prev)
-    rmse = np.sqrt(mse)
+    rmse = float(np.sqrt(mse))
     r2 = r2_score(y_real, y_prev)
     return {
         "MAE": mae,
