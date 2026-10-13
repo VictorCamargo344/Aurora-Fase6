@@ -20,16 +20,26 @@ def treinar_modelo(X, y):
     return modelo, X_teste, y_teste
 
 
-def avaliar_modelo(modelo, X_teste, y_teste):
-    y_pred = modelo.predict(X_teste)
-    
-    mae = mean_absolute_error(y_teste, y_pred)
-    mse = mean_squared_error(y_teste, y_pred)
+def calcular_metricas(y_real, y_prev):
+    mae = mean_absolute_error(y_real, y_prev)
+    mse = mean_squared_error(y_real, y_prev)
     rmse = np.sqrt(mse)
-    r2 = r2_score(y_teste, y_pred)
+    r2 = r2_score(y_real, y_prev)
     return {
         "MAE": mae,
         "MSE": mse,
         "RMSE": rmse,
         "R2": r2,
     }
+
+
+def avaliar_modelo(modelo, X_teste, y_teste):
+    y_pred = modelo.predict(X_teste)
+    
+    return calcular_metricas(y_teste, y_pred)
+
+
+def avaliar_baseline(df, X_teste, y_teste):
+    y_baseline = df.loc[X_teste.index, "latencia_prevista_ms"]
+
+    return calcular_metricas(y_teste, y_baseline)
