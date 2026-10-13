@@ -37,8 +37,33 @@ def exibir_menu():
 6 - Buscar módulo ou sensor por prefixo
 7 - Tabela de conversão dos códigos de sensor
 8 - Consumo energético por módulo
+9 - Análise final
 0 - Sair
 """)
+
+
+## Consolida os principais indicadores do sistema num painel único.
+def analise_final(df, heap):
+    X, y = preparar_dados(df)
+    modelo, X_teste, y_teste = treinar_modelo(X, y)
+    metricas_modelo = avaliar_modelo(modelo, X_teste, y_teste)
+    metricas_baseline = avaliar_baseline(df, X_teste, y_teste)
+
+    # idxmax() devolve o rótulo da linha com o maior valor, não o valor.
+    erros = resumo_erros_por_modulo(df)
+    modulo_critico = erros["mean"].idxmax()
+
+    print(f"Registros analisados:           {len(df)}")
+    print(f"Módulos monitorados:            {df['modulo'].nunique()}")
+    print(f"Alertas pendentes na fila:      {len(heap)}")
+    print(f"Módulo com maior erro relativo: {modulo_critico}")
+    print()
+    print(f"Erro médio do sistema atual:    {metricas_baseline['MAE']:.2f} ms")
+    print(f"Erro médio do modelo proposto:  {metricas_modelo['MAE']:.2f} ms")
+    print(f"R² do sistema atual:            {metricas_baseline['R2']:.3f}")
+    print(f"R² do modelo proposto:          {metricas_modelo['R2']:.3f}")
+    print()
+    print(f"Potência média da colônia:      {df['potencia_w'].mean():.2f} W")
 
 
 def main():
@@ -105,6 +130,10 @@ def main():
         elif opcao == "8":
             print("\n=== Consumo energético por módulo ===")
             print(resumo_potencia_por_modulo(df))
+
+        elif opcao == "9":
+            print("\n=== Análise final dos resultados ===")
+            analise_final(df, heap)    
 
         elif opcao == "0":
             print("\nEncerrando o SCIC.")
