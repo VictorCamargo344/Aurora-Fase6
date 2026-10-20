@@ -26,12 +26,14 @@ O sistema abre um menu no terminal. Todas as opções operam sobre a base já ca
 Todas foram trabalhadas na fase. Não há bibliotecas externas ao conteúdo estudado — `heapq` e `os` fazem parte da biblioteca padrão do Python.
 
 ## Estrutura dos arquivos
+
+```
 Aurora-Fase6/
 ├── codigo_fonte.py # menu e integração dos módulos
 ├── data/
 │ └── dados_aurora_siger.csv # base simulada (504 registros)
 ├── src/
-│ ├── init.py
+│ ├── __init__.py
 │ ├── dados.py # carga e resumo estatístico
 │ ├── erros.py # erro absoluto, relativo e sinalizado
 │ ├── modelo.py # treino, métricas e baseline
@@ -39,7 +41,7 @@ Aurora-Fase6/
 │ ├── busca.py # busca por prefixo (trie)
 │ └── hardware.py # bases numéricas e potência
 └── README.md
-
+```
 
 A separação entre `codigo_fonte.py` e `src/` é deliberada: o arquivo principal não calcula nada, apenas chama as funções dos módulos e organiza a interação com o usuário. Cada módulo de `src/` resolve um problema e pode ser testado isoladamente.
 
