@@ -20,6 +20,8 @@ O sistema abre um menu no terminal. Todas as opções operam sobre a base já ca
 | pandas | leitura do CSV, agregações e filtros |
 | numpy | raiz quadrada no cálculo do RMSE |
 | scikit-learn | divisão treino/teste, regressão linear e métricas |
+| matplotlib | gráficos da análise (em desenvolvimento) |
+| seaborn | estilo dos gráficos (em desenvolvimento) |
 
 Todas foram trabalhadas na fase. Não há bibliotecas externas ao conteúdo estudado — `heapq` e `os` fazem parte da biblioteca padrão do Python.
 
